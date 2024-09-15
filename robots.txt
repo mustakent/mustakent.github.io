@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mustakent.github.io/sitemap.html.gz
+Sitemap: https://mustakent.github.io/app/sitemap.html.gz
+Sitemap: https://mustakent.github.io/assets/sitemap.html.gz
+Sitemap: https://mustakent.github.io/css/sitemap.html.gz
+Sitemap: https://mustakent.github.io/includes/sitemap.html.gz
+Sitemap: https://mustakent.github.io/item/sitemap.html.gz
+Sitemap: https://mustakent.github.io/src/sitemap.html.gz
